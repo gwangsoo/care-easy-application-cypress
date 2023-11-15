@@ -1,0 +1,6 @@
+org.springframework.test.context.ContextCustomizerFactory = com.xrfriends.\
+    careeasy.config.TestContainersSpringContextCustomizerFactory,com.xrfriends.\
+    careeasy.config.SqlTestContainersSpringContextCustomizerFactory,com.\
+    xrfriends.careeasy.config.\
+    KafkaTestContainersSpringContextCustomizerFactory,com.xrfriends.careeasy.\
+    config.RedisTestContainersSpringContextCustomizerFactory
